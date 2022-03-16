@@ -1,6 +1,4 @@
-<pre>
-<code>
-```java
+
 package hello.core;
 
 import hello.core.discount.DiscountPolicy;
@@ -41,7 +39,4 @@ return new RateDiscountPolicy();
 }
 
 }
-```
 
-</code>
-</pre>
